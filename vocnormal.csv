@@ -1,11 +1,101 @@
-問題,選項1,選項2,選項3,選項4,答案
-1. 問題: The archaeologist carefully _____ the ancient artifact from the dig site.,   選項: A. retrieved  B. received  C. reviewed  D. revived,   答案: A
-2. 問題:  The company's profits have _____ significantly over the past year.,   選項: A. declined  B. inclined  C. reclined  D. confined,   答案: A
-3. 問題:  The dense fog made it difficult to _____ the road ahead.,   選項: A. perceive  B. deceive  C. receive  D. conceive,   答案: A
-4. 問題: She expressed her _____ for the beautiful gift.,   選項: A. gratitude  B. attitude  C. altitude  D. multitude,   答案: A
-5. 問題:  The artist used vibrant colors to _____ a sense of joy and energy.,   選項: A. convey  B. survey  C. sway  D. delay,   答案: A
-6. 問題:  The witness gave a _____ account of the accident.,   選項: A. detailed  B. retail  C. curtailed  D. entailed,   答案: A
-7. 問題: The government implemented new policies to _____ economic growth.,   選項: A. stimulate  B. simulate  C. accumulate  D. formulate,   答案: A
-8. 問題:  He felt a sense of _____ after finishing the marathon.,   選項: A. accomplishment  B. complement  C. compliment  D. supplement,   答案: A
-9. 問題:  The students were asked to _____ the poem for homework.,   選項: A. analyze  B. paralyze  C. finalize  D. visualize,   答案: A
-10. 問題:  The medication helped to _____ the patient's pain.,    選項: A. alleviate  B. elevate  C. deviate  D. activate,    答案: A
+ID,Question,OptionA,OptionB,OptionC,OptionD,Answer
+1,What does "purchase" mean?,Buy,Sell,Lend,Send,A  
+2,Which is a synonym for "happy"?,Joyful,Sad,Angry,Tired,A  
+3,What does "journey" mean?,Trip,Test,Meal,Game,A  
+4,What is the opposite of "noisy"?,Quiet,Loud,Busy,Fast,A  
+5,What does "borrow" mean?,Take and return,Give away,Buy,Destroy,A  
+6,What is a "customer"?,Shopper,Worker,Boss,Driver,A  
+7,"Brave" means?,Courageous,Scared,Weak,Lazy,A  
+8,What does "enormous" mean?,Huge,Small,Light,Old,A  
+9,"Arrange" means?,Organize,Forget,Destroy,Ignore,A  
+10,What does "frequent" mean?,Often,Sometimes,Never,Rarely,A  
+11,"Avoid" means?,Stay away from,Join,Call,Build,A  
+12,"Difficult" is closest in meaning to?,Hard,Easy,Short,Fast,A  
+13,What does "require" mean?,Need,Want,Refuse,Take,A  
+14,"Curious" means?,Interested,Bored,Scared,Angry,A  
+15,What is the meaning of "protect"?,Keep safe,Hurt,Steal,Throw,A  
+16,"Necessary" means?,Needed,Useless,Funny,Shiny,A  
+17,"Complete" means?,Finish,Start,Break,Hide,A  
+18,What does "prefer" mean?,Like more,Dislike,Choose randomly,Wait,A  
+19,What does "reduce" mean?,Make smaller,Increase,Delete,Buy,A  
+20,What does "prepare" mean?,Get ready,Destroy,Wait,Forget,A  
+21,"Polite" means?,Well-mannered,Lazy,Busy,Strong,A  
+22,"Cancel" means?,Call off,Continue,Plan,Invite,A  
+23,What is the opposite of "dangerous"?,Safe,Loud,Easy,Fast,A  
+24,"Respect" means?,Value,Ignore,Tease,Lie,A  
+25,"Divide" means?,Split,Add,Buy,Join,A  
+26,"Arrange" is closest in meaning to?,Organize,Buy,Refuse,Catch,A  
+27,"Collect" means?,Gather,Throw away,Hide,Forget,A  
+28,What does "destroy" mean?,Break completely,Fix,Make,Paint,A  
+29,"Silent" means?,Quiet,Fast,Short,Clean,A  
+30,What is the opposite of "win"?,Lose,Try,Play,Give,A  
+31,"Enemy" means?,Opponent,Friend,Neighbor,Stranger,A  
+32,"Famous" means?,Well-known,Unknown,Funny,Busy,A  
+33,"Create" means?,Make,Delete,Eat,Forget,A  
+34,"Common" means?,Usual,Rare,Wrong,Short,A  
+35,"Arrive" means?,Get there,Leave,Rest,Call,A  
+36,"Imagine" means?,Think of,Forget,Copy,Refuse,A  
+37,"Trust" means?,Believe,Lie,Ignore,Hide,A  
+38,"Effort" means?,Try hard,Sit down,Eat fast,Run away,A  
+39,"Complain" means?,Talk negatively,Help others,Sing loudly,Cook,A  
+40,"Include" means?,Have,Miss,Ignore,Hide,A  
+41,"Succeed" means?,Do well,Fail,Forget,Lose,A  
+42,"Opportunity" means?,Chance,Mistake,Prize,Question,A  
+43,"Provide" means?,Give,Take away,Throw,Eat,A  
+44,"Opinion" means?,Thought,Demand,Action,Task,A  
+45,"Arrange" is closest to?,Organize,Destroy,Hide,Refuse,A  
+46,"Attend" means?,Go to,Skip,Think,Talk,A  
+47,"Career" means?,Job path,Vacation,Hobby,Trip,A  
+48,"Challenge" means?,Difficult task,Easy win,Prize,Game,A  
+49,"Environment" means?,Surroundings,People,Books,Clothes,A  
+50,"Foreign" means?,From another country,Local,Old,Big,A  
+51,"Global" means?,Worldwide,Local,Simple,Colorful,A  
+52,"Health" means?,Physical well-being,Money,Work,Fun,A  
+53,"Invention" means?,New creation,Old idea,Problem,Friendship,A  
+54,"Knowledge" means?,What you know,What you eat,What you do,What you hear,A  
+55,"Leadership" means?,Being in charge,Being quiet,Being a follower,Being lazy,A  
+56,"Memory" means?,Ability to remember,Ability to run,Ability to speak,Ability to eat,A  
+57,"Neighbor" means?,Person living near you,Friend,Stranger,Driver,A  
+58,"Opinion" means?,Personal thought,True fact,Wrong idea,Rule,A  
+59,"Population" means?,Number of people,Size of house,Number of animals,Speed of cars,A  
+60,"Respect" means?,Show care,Ignore,Hit,Call,A  
+61,"Schedule" means?,Plan,Game,Meal,Letter,A  
+62,"Talent" means?,Natural ability,Big money,Funny story,Cool style,A  
+63,"Tradition" means?,Custom,Music,Clothing,Dream,A  
+64,"Understand" means?,Know,Guess,Laugh,Forget,A  
+65,"Volunteer" means?,Help freely,Ask for money,Lead a team,Teach,A  
+66,"Waste" means?,Use badly,Save well,Eat fast,Play,A  
+67,"Achieve" means?,Reach a goal,Fall behind,Forget,Complain,A  
+68,"Benefit" means?,Good result,Bad feeling,Hard work,Lost time,A  
+69,"Decide" means?,Choose,Think,Guess,Ignore,A  
+70,"Develop" means?,Grow,Stop,Sleep,Lie,A  
+71,"Economy" means?,Money system,Weather,Internet,Science,A  
+72,"Familiar" means?,Well-known,Strange,Dark,Old,A  
+73,"Goal" means?,Aim,Game,Time,Car,A  
+74,"Habit" means?,Something you do often,Something new,Something lost,Something told,A  
+75,"Ignore" means?,Not pay attention,Answer,Help,Listen,A  
+76,"Journey" means?,Trip,Game,Work,Lie,A  
+77,"Kindness" means?,Being nice,Being rude,Being quiet,Being late,A  
+78,"Limit" means?,Stop point,Start,Free time,Goal,A  
+79,"Mention" means?,Talk about,Hide,Refuse,Forget,A  
+80,"Neighbor" is a?,Nearby person,Big boss,Old man,Teacher,A  
+81,"Organize" means?,Arrange,Destroy,Forget,Hide,A  
+82,"Prepare" means?,Get ready,Clean up,Put away,Talk,A  
+83,"Quiet" means?,Silent,Fast,Short,Dark,A  
+84,"Repeat" means?,Do again,Do faster,Do slower,Do loudly,A  
+85,"Safe" means?,Not dangerous,Very fast,Not fun,Very new,A  
+86,"Task" means?,Job,Game,Sport,Lie,A  
+87,"Urgent" means?,Needs quick action,Very slow,Not needed,Very old,A  
+88,"Value" means?,Worth,Color,Shape,Use,A  
+89,"Warn" means?,Tell about danger,Talk kindly,Shout happily,Run away,A  
+90,"Youth" means?,Young people,Old age,Middle life,Slow people,A  
+91,"Active" means?,Full of energy,Very slow,Always sleeping,Scared,A  
+92,"Bored" means?,Not interested,Very angry,Very cold,Very busy,A  
+93,"Cheap" means?,Not expensive,Big and heavy,Colorful,Very sweet,A  
+94,"Deny" means?,Say not true,Say yes,Say hello,Write,A  
+95,"Empty" means?,Nothing inside,Too full,Colorful,Wet,A  
+96,"Frighten" means?,Scare,Play,Laugh,Shout,A  
+97,"Gather" means?,Collect,Throw away,Ignore,Break,A  
+98,"Honest" means?,Tells the truth,Tells jokes,Feels tired,Walks fast,A  
+99,"Include" means?,Have as part,Take out,Change,Miss,A  
+100,"Lucky" means?,Fortunate,Busy,Late,Active,A  

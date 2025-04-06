@@ -1,4 +1,101 @@
-問題,選項1,選項2,選項3,選項4,答案
-問題 1: What was Leo doing when he found the clearing?,Playing hide-and-seek with his friends. B. Searching for colorful birds. C.  Picking wildflowers. D.  Swimming in the stream.,B
-"問題 2: What is the best synonym for ""mesmerized"" as used in the passage?",Scared. B.  Confused. C.  Captivated. D.  Disgusted.,C
-問題 3: What did Leo decide to do with the clearing?,Tell all his friends about it. B. Build a treehouse there. C. Keep it his secret place. D. Plant more wildflowers.,C
+ID,Question,OptionA,OptionB,OptionC,OptionD,Answer
+1,What color is the sky on a sunny day?,Blue,Red,Green,Yellow,A  
+2,What is the opposite of "hot"?,Cold,Warm,Boiling,Fire,A  
+3,Which animal says "meow"?,Cat,Dog,Cow,Pig,A  
+4,Which fruit is red and has seeds?,Apple,Banana,Orange,Grape,A  
+5,What do you use to write?,Pen,Book,Chair,Spoon,A  
+6,What do you wear on your feet?,Shoes,Hat,Shirt,Gloves,A  
+7,What is the opposite of "hard"?,Soft,Strong,Big,Heavy,A  
+8,What do you drink when you're thirsty?,Water,Soap,Juice,Oil,A  
+9,What do bees make?,Honey,Milk,Bread,Butter,A  
+10,What do you use to eat soup?,Spoon,Fork,Knife,Chopsticks,A  
+11,What color are bananas?,Yellow,Blue,Black,White,A  
+12,Which is a farm animal?,Cow,Lion,Shark,Tiger,A  
+13,What flies in the sky?,Bird,Mouse,Fish,Snake,A  
+14,What do you wear on your head?,Hat,Socks,Shoes,Pants,A  
+15,What do you sleep on?,Bed,Chair,Table,Door,A  
+16,What do you use to open a door?,Key,Phone,Book,Pen,A  
+17,What is the opposite of "up"?,Down,Top,Left,Back,A  
+18,What is a baby dog called?,Puppy,Kitten,Cub,Calf,A  
+19,Which one is a fruit?,Mango,Carrot,Potato,Cabbage,A  
+20,What do you wear when it's cold?,Coat,Shorts,Swimsuit,T-shirt,A  
+21,Which animal has a long neck?,Giraffe,Zebra,Duck,Rabbit,A  
+22,What color is grass?,Green,Red,Blue,Orange,A  
+23,What do you do with a book?,Read,Eat,Sit,Throw,A  
+24,Which one is used to tell time?,Clock,Bottle,Chair,Box,A  
+25,What do you wear on your hands?,Gloves,Socks,Shoes,Glasses,A  
+26,Which is not a color?,Tree,Red,Blue,Yellow,A  
+27,Which fruit is orange in color?,Orange,Apple,Peach,Lemon,A  
+28,What is the opposite of "fast"?,Slow,Quick,Loud,Run,A  
+29,What do you use to see?,Eyes,Ears,Nose,Mouth,A  
+30,What is round and used in games?,Ball,Cube,Box,Stick,A  
+31,Which animal hops?,Rabbit,Bear,Horse,Sheep,A  
+32,What is made of pages?,Book,Plate,Cup,Pencil,A  
+33,Which part of the body do you hear with?,Ears,Hands,Legs,Nose,A  
+34,What do you wear to see better?,Glasses,Hat,Shirt,Scarf,A  
+35,Which is a type of weather?,Rain,Chair,Plate,Glass,A  
+36,Which is a pet?,Dog,Lion,Bear,Deer,A  
+37,What do you eat for breakfast?,Cereal,Rock,Paper,Toy,A  
+38,Which is a fruit?,Strawberry,Broccoli,Carrot,Lettuce,A  
+39,What is the opposite of "tall"?,Short,Long,Big,High,A  
+40,Which one is a number?,Five,Apple,Chair,Blue,A  
+41,Which is used in school?,Pencil,Broom,Spoon,Phone,A  
+42,What do you wear on rainy days?,Raincoat,Swimsuit,Shorts,Sandals,A  
+43,What makes light at night?,Moon,Cloud,Rock,Grass,A  
+44,What has wheels?,Bicycle,Book,Sock,Cup,A  
+45,Which is a type of drink?,Juice,Cake,Bread,Rice,A  
+46,What is cold and made of water?,Ice,Stone,Glass,Metal,A  
+47,Which one is a vegetable?,Carrot,Apple,Grape,Pear,A  
+48,What do you see at night in the sky?,Stars,Clouds,Cows,Birds,A  
+49,Which animal lives in water?,Fish,Cat,Dog,Horse,A  
+50,What do you wear to swim?,Swimsuit,Jacket,Jeans,Scarf,A  
+51,What is sweet and comes from bees?,Honey,Cheese,Water,Oil,A  
+52,Which animal can fly?,Bird,Lion,Tiger,Monkey,A  
+53,Which one is a shape?,Circle,Chair,Table,Cup,A  
+54,What do you sit on?,Chair,Spoon,Box,Door,A  
+55,What is hot and yellow in the sky?,Sun,Moon,Cloud,Star,A  
+56,Which one is used to cut?,Scissors,Pencil,Eraser,Book,A  
+57,Which is a dessert?,Cake,Broccoli,Fish,Bread,A  
+58,Which is not a fruit?,Carrot,Banana,Peach,Lemon,A  
+59,What grows in a garden?,Flower,Chair,Plate,Cloud,A  
+60,What do you use when it's dark?,Flashlight,Pencil,Book,Radio,A  
+61,What do you hear music from?,Radio,Pan,Shoe,Box,A  
+62,Which one is soft?,Pillow,Rock,Wood,Metal,A  
+63,What do you drink tea from?,Cup,Box,Bag,Pen,A  
+64,Which is used to clean teeth?,Toothbrush,Spoon,Knife,Comb,A  
+65,What is used for rain?,Umbrella,Helmet,Cap,Scarf,A  
+66,What is the opposite of "cold"?,Hot,Wet,Soft,Low,A  
+67,Which animal has stripes?,Zebra,Duck,Frog,Rat,A  
+68,What color is an orange?,Orange,Green,Blue,Red,A  
+69,What do you put on your sandwich?,Jam,Water,Soap,Oil,A  
+70,Which is not a drink?,Bread,Milk,Tea,Juice,A  
+71,What is the opposite of "old"?,Young,Tired,Big,Hot,A  
+72,Which is used to eat?,Fork,Comb,Pen,Cap,A  
+73,What do you wear on your legs?,Pants,Hat,Gloves,Shirt,A  
+74,Which one is a part of the face?,Nose,Hand,Foot,Neck,A  
+75,What do you take to school?,Bag,Chair,Sink,Pillow,A  
+76,What do you do with a pencil?,Write,Cut,Drink,Sing,A  
+77,What is the opposite of "open"?,Close,Pull,Push,Stop,A  
+78,Which one is not an animal?,Rock,Dog,Cat,Fish,A  
+79,What do you wear on your eyes?,Glasses,Hat,Scarf,Gloves,A  
+80,Which is found in the sky?,Cloud,Car,Plate,Door,A  
+81,What do you wear on your body?,Clothes,Books,Bags,Chairs,A  
+82,What do you hear with?,Ears,Eyes,Nose,Hands,A  
+83,What do you smell with?,Nose,Ear,Toe,Knee,A  
+84,Which one is a toy?,Doll,Pot,Pan,Sock,A  
+85,What do you use to color?,Crayon,Knife,Comb,Scissors,A  
+86,What do you wear on your wrist?,Watch,Ring,Necklace,Earrings,A  
+87,What do you use to make a call?,Phone,TV,Book,Lamp,A  
+88,Which one is not a color?,Table,Green,Red,Black,A  
+89,What is shaped like a square?,Box,Plate,Shoe,Pen,A  
+90,Which one is a job?,Teacher,Banana,Car,Music,A  
+91,Which is a kind of bread?,Toast,Meat,Juice,Fish,A  
+92,What do you eat ice cream from?,Cone,Bag,Box,Spoon,A  
+93,What is used to clean hair?,Shampoo,Soap,Juice,Oil,A  
+94,What do you sit on in class?,Chair,Floor,Desk,Wall,A  
+95,What do you use to open a can?,Can opener,Pencil,Spoon,Eraser,A  
+96,What do you read every day?,Book,Pen,Shoe,Chair,A  
+97,Which one is a season?,Summer,Green,Long,Cold,A  
+98,Which one is hot?,Fire,Ice,Snow,Wind,A  
+99,What do you wear in winter?,Jacket,Shorts,T-shirt,Flip-flops,A  
+100,Which one is not found at school?,Bed,Desk,Board,Pen,A  

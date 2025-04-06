@@ -1,1 +1,500 @@
-句子,選項1,選項2,選項3,選項4,答案
+Q1,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q2,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q3,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q4,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q5,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q6,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q7,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q8,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q9,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q10,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q11,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q12,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q13,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q14,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q15,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q16,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q17,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q18,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q19,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q20,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q21,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q22,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q23,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q24,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q25,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q26,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q27,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q28,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q29,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q30,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q31,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q32,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q33,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q34,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q35,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q36,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q37,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q38,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q39,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q40,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q41,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q42,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q43,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q44,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q45,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q46,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q47,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q48,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q49,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q50,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q51,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q52,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q53,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q54,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q55,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q56,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q57,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q58,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q59,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q60,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q61,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q62,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q63,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q64,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q65,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q66,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q67,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q68,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q69,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q70,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q71,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q72,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q73,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q74,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q75,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q76,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q77,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q78,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q79,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q80,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q81,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q82,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q83,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q84,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q85,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q86,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q87,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q88,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q89,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q90,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q91,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q92,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q93,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q94,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q95,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
+Q96,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q97,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q98,"It was raining heavily, and Peter forgot to bring his umbrella. He ran through the rain, trying to stay dry. When he got home, he ___(1)___ all wet. His mother told him to change his clothes and ___(2)___ some hot tea. He felt much better ___(3)___. The next day, he remembered to bring an umbrella just in ___(4)___."
+(1),is,was,were,are,B
+(2),drink,drank,drinks,drinking,B
+(3),after,then,before,soon,D
+(4),case,time,need,place,A
+Q99,"Tom is a student. He ___(1)___ to school by bus every day. One day, the bus broke down, so he ___(2)___ to walk. It was a long walk, ___(3)___ he didn’t complain. Finally, he ___(4)___ school on time."
+(1),go,goes,went,going,B
+(2),decide,decides,decided,deciding,C
+(3),so,but,because,and,B
+(4),reach,reached,reaches,reaching,B
+Q100,"Amy loves reading. She spends a lot of time in the library. She reads not only novels ___(1)___ also science books. Her friends think she is a little strange, ___(2)___ Amy doesn’t mind. She ___(3)___ to become a writer one day, so she ___(4)___ hard every day."
+(1),and,or,but,so,A
+(2),so,but,and,because,B
+(3),hope,hopes,hoped,hoping,B
+(4),practice,practices,practiced,practicing,B
